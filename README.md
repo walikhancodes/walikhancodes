@@ -3,7 +3,4 @@ Feel free to reach me through my email - wmkhan06@gmail.com or <a href="https://
 
 
 
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=walikhancodes&layout=compact)
-
-
 
